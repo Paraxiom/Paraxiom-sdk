@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@polkadot/api": "^9.11.3",
+    "devphase": "^0.0.33",
+    "dotenv": "^16.0.3",
+    "node-ts": "^5.1.2",
+    "typings": "^2.1.1"
+  }
+}
